@@ -2,7 +2,7 @@
   "latest_version": "1.0.1",
   "name": "Bank Import Pro V1.0.1",
   "message": "New update available",
-  "notes": "First update system setup.",
-  "download_url": "",
+  "notes": "GitHub update system and license integration added.",
+  "download_url": "https://github.com/tezhisab-afk/bank-import-pro-updates/releases/latest/download/BankImportPro_Setup_Latest.exe",
   "mandatory": false
 }
