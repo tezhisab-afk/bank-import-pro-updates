@@ -1,8 +1,8 @@
 {
-  "latest_version": "1.0.1",
-  "name": "Bank Import Pro V1.0.1",
-  "message": "New update available",
-  "notes": "GitHub update system and license integration added.",
+  "latest_version": "1.0.2",
+  "name": "Bank Import Pro V1.0.2",
+  "message": "Update restart fix added.",
+  "notes": "App close ke baad restart/update issue fixed.",
   "download_url": "https://github.com/tezhisab-afk/bank-import-pro-updates/releases/latest/download/BankImportPro_Setup_Latest.exe",
   "mandatory": false
 }
