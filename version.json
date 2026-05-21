@@ -1,8 +1,8 @@
 {
-  "latest_version": "1.0.2",
-  "name": "Bank Import Pro V1.0.2",
-  "message": "Update restart fix added.",
-  "notes": "App close ke baad restart/update issue fixed.",
+  "latest_version": "1.0.4",
+  "name": "Bank Import Pro V1.0.4",
+  "message": "South Indian Bank footer import fix added.",
+  "notes": "South Indian Bank final footer/Grand Total lines are now ignored while real Int.Coll entries are imported correctly.",
   "download_url": "https://github.com/tezhisab-afk/bank-import-pro-updates/releases/latest/download/BankImportPro_Setup_Latest.exe",
   "mandatory": false
 }
