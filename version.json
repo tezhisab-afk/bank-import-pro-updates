@@ -1,8 +1,8 @@
 {
-  "latest_version": "1.0.4",
-  "name": "Bank Import Pro V1.0.4",
-  "message": "South Indian Bank footer import fix added.",
-  "notes": "South Indian Bank final footer/Grand Total lines are now ignored while real Int.Coll entries are imported correctly.",
+  "latest_version": "1.0.31",
+  "name": "Bank Import Pro V1.0.31",
+  "message": "Create Ledger GSTIN field and focus restore added.",
+  "notes": "Create Ledger success OK ke baad Common Narration popup/front state same rahega; main page foreground jump fix.",
   "download_url": "https://github.com/tezhisab-afk/bank-import-pro-updates/releases/latest/download/BankImportPro_Setup_Latest.exe",
   "mandatory": false
 }
